@@ -1,0 +1,39 @@
+.padding_top {
+    padding-top: 12rem;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    padding-right: 30px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.gray {
+    color: gray;
+}
+
+.white {
+    color: white;
+}
+
+header {
+    border-bottom: 1px solid rgba(128, 128, 128, 0.623);
+    background-color: white;
+}
+
+.active_site {
+    border-bottom: 3px solid blue;
+    color: blue;
+    padding-bottom: 1rem;
+}
+
+footer {
+    background-color: grey;
+}
